@@ -22,7 +22,7 @@ export default function About() {
         I have been into {" "}
         <span className="font-medium">Full-Stack Development and Product Engg. </span>Previously I have
         also founded a startup named as  <a href="https://www.flitchcoin.com" target="_blank" ><span className="font-medium underline">FlitchCoin</span></a> and currently I am working at{" "}
-        <span className="font-medium">TrustAuthX</span>,as a Full-Stack Dev.{" "}
+        <span className="font-medium">TrustAuthX</span>, as a Full-Stack Dev.{" "}
         <span className="italic"> My favorite part of development</span> is the
         problem-solving aspect. I have<span> also won</span> several
         hackathons namely Samsung SFT 2022. My core stack
