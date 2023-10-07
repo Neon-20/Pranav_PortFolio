@@ -87,7 +87,7 @@ export const projectsData = [
       "FileMagnet is your one-stop solution for converting various file formats, including images, audio, and videos.",
     tags: ["NextJS", "TypeScript", ,"FFMPEG-WebAssembly","Tailwind"],
     imageUrl: Magnet,
-    hrefLink:'https:/filemagnet.pranavrajveer.com/'
+    hrefLink:'https://filemagnet.pranavrajveer.com/'
   },
   {
     title: "P2P video conferencing",
