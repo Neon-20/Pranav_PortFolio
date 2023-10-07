@@ -3,7 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import ProdigyAI from "@/public/ProdigyAI.png";
-import GPT from "@/public/GPT.png";
+import Magnet from "@/public/Magnet.png";
 import VideoRTC from "@/public/VideoRTC.png";
 
 export const links = [
@@ -82,12 +82,12 @@ export const projectsData = [
     hrefLink:"https://prodigy-ai-nine.vercel.app/"
   },
   {
-    title: "GPT Prompt AI",
+    title: "FileMagnet FileConverter",
     description:
-      "Users can create post and filter out their own posts using debouncing, User authentication implemented with Google OAuth.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Zustand","MongoDB"],
-    imageUrl: GPT,
-    hrefLink:'https://gptprompt.vercel.app/'
+      "FileMagnet is your one-stop solution for converting various file formats, including images, audio, and videos.",
+    tags: ["NextJS", "TypeScript", ,"FFMPEG-WebAssembly","Tailwind"],
+    imageUrl: Magnet,
+    hrefLink:'https:/filemagnet.pranavrajveer.com/'
   },
   {
     title: "P2P video conferencing",
